@@ -1,4 +1,4 @@
-# Pike
+# Pike [![Build Status][travis-img]][travis-url]
 
 Pike is a wrapper for [Ivy][ivy] providing command-line history.
 
@@ -16,3 +16,5 @@ go get github.com/IvanUkhov/pike
 3. Create a pull request.
 
 [ivy]: https://github.com/robpike/ivy
+[travis-img]: https://travis-ci.org/IvanUkhov/pike.svg
+[travis-url]: https://travis-ci.org/IvanUkhov/pike

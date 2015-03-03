@@ -2,6 +2,8 @@ language: go
 
 install: go get -t ./...
 
+script: go build
+
 notifications:
   email:
     on_success: never
